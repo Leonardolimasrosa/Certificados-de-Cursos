@@ -7,7 +7,7 @@
 ~~Riscado~~ </br>
 `Monoespaçado` </br>
 <sub>Subescrito</sub> </br>
-<sup>Sobreescrito</sup> </br>
+<sup>Sobreescrito</sup>
 # Título Grande
 ## Título Médio
 ### Título Pequeno
@@ -18,4 +18,6 @@
 print("Hello World!")
 ```
 - removido
+- removido
++ adicionado
 + adicionado
