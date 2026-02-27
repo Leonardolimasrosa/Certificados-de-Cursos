@@ -8,6 +8,9 @@
 `Monoespaçado` </br>
 <sub>Subescrito</sub> </br>
 <sup>Sobreescrito</sup>
+
+---
+
 # Título Grande
 ## Título Médio
 ### Título Pequeno
@@ -15,7 +18,8 @@
   - Sublista
 1. Lista
    1. Sublista
-> Citação
+> [!NOTE]
+> Citação 
 ```python
 print("Hello World!")
 ```
@@ -27,65 +31,13 @@ print("Hello World!")
 * [ ] B
 [Nome que quer dar ao link](https://www.google.com/)
 
-
-
-
-# 🚀 Exemplo Completo de Comentário
-
-Olá @usuario 👋
-
-> [!NOTE]
-> Este é um comentário demonstrando **todas as formatações possíveis**.
-
 ---
 
-## 📝 Formatação
-
-Texto **negrito**, *itálico*, ~~riscado~~, `código inline`
-Subscrito H<sub>2</sub>O e sobrescrito X<sup>2</sup>
-
----
-
-## 📋 Lista
-
-* Item 1
-* Item 2
-
-  * Subitem
-
-1. Primeiro
-2. Segundo
-
----
-
-## ☑️ Checklist
-
-* [x] tarefa concluída
-* [ ] tarefa pendente
-
----
-
-## 💻 Código
-
-```python
-def hello():
-    print("Hello world")
-```
-
-```diff
-- linha removida
-+ linha adicionada
-```
-
----
-
-## 🔗 Links
-
-[Site do GitHub](https://github.com)
-
-Referência de issue: #1
-
----
+| Nome | Gênero |
+| ---- | ------ |
+| Leonardo | M |
+| Dani | F |
+| João | M |
 
 ## 📊 Tabela
 
