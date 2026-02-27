@@ -19,7 +19,12 @@
 1. Lista
    1. Sublista
 > [!NOTE]
-> Citação 
+> Citação
+
+---
+
+💻 Código
+
 ```python
 print("Hello World!")
 ```
@@ -29,6 +34,11 @@ print("Hello World!")
 ```
 * [x] A
 * [ ] B
+
+---
+
+🔗 Links
+
 [Nome que quer dar ao link](https://www.google.com/)
 
 ---
@@ -40,6 +50,8 @@ print("Hello World!")
 | João | M |
 
 ---
+
+📂 Seção recolhível
 
 <details>
 <summary>Clique para expandir</summary>
