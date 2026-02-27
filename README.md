@@ -39,16 +39,7 @@ print("Hello World!")
 | Dani | F |
 | João | M |
 
-## 📊 Tabela
-
-| Nome | Status |
-| ---- | ------ |
-| API  | ✅      |
-| UI   | 🚧     |
-
 ---
-
-## 📂 Seção recolhível
 
 <details>
 <summary>Clique para expandir</summary>
