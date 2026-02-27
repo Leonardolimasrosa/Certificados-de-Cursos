@@ -2,12 +2,12 @@
 
 ## Aqui consta todos os certicifados de cursos já feitos, junto de seus resumos, demonstrando também exercícios feitos apartir dos cursos
 
-**Negrito**
-*Itálico*
-~~Riscado~~
-`Monoespaçado`
-<sub>Subescrito</sub>
-<sup>Sobreescrito</sup>
+**Negrito** </br>
+*Itálico* </br>
+~~Riscado~~ </br>
+`Monoespaçado` </br>
+<sub>Subescrito</sub> </br>
+<sup>Sobreescrito</sup> </br>
 # Título Grande
 ## Título Médio
 ### Título Pequeno
